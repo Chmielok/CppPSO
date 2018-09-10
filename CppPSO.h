@@ -2,6 +2,7 @@
 #include <functional>
 #include <vector>
 #include <random>
+#include <memory>
 
 
 namespace CppPSO {
